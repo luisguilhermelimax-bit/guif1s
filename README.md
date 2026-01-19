@@ -1,2 +1,2 @@
 # guif1s
-meus cod,iniciante
+meus codigos,iniciante
