@@ -1,4 +1,4 @@
-#second cod 
+
 #gostei muito desse
 #media do boletim
 print("                             ESCOLA FUCTURA                             ")
