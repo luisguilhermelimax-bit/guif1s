@@ -1,5 +1,5 @@
 
-#gostei muito desse
+
 #media do boletim
 print("                             ESCOLA FUCTURA                             ")
 nome=input("qual seu nome?")
